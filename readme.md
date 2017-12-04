@@ -6,6 +6,8 @@ We use the three `additionalhtml` settings (`head`, `topofbody`, `footer`) to ad
 
 `additionalhtmlfooter` is the spot for JavaScript.
 
+I suspect we will not find a use for `topofbody` but it's possible that that settings could be used for warnings or announcements.
+
 Moodle documentation for these settings resides here: https://docs.moodle.org/32/en/Header_and_footer
 
 # LICENSE
