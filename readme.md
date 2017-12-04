@@ -7,3 +7,7 @@ We use the three `additionalhtml` settings (`head`, `topofbody`, `footer`) to ad
 `additionalhtmlfooter` is the spot for JavaScript.
 
 Moodle documentation for these settings resides here: https://docs.moodle.org/32/en/Header_and_footer
+
+# LICENSE
+
+[ECL Version 2.0](https://opensource.org/licenses/ECL-2.0)
