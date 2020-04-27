@@ -1,6 +1,6 @@
 # CCA Moodle `additionalhtml` settings
 
-We use the three `additionalhtml` settings (`head`, `topofbody`, `footer`) to add customizsations to our Moodle theme. These are powerful settings because they can be applied to every page on the site, giving us the ability to apply fixes across the whole app without touching a bunch of plugins or settings.
+We use the three `additionalhtml` settings (`head`, `topofbody`, `footer`) to add customizations to our Moodle theme. These are powerful settings because they can be applied to every page on the site, giving us the ability to apply fixes across the whole app without touching a bunch of plugins or settings.
 
 `additionalhtmlhead` is the place for CSS tweaks.
 
